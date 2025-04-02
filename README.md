@@ -25,7 +25,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/wiktorlewandowski9/NTPD_lab04.git
 cd NTPD_lab04
 ```
 
